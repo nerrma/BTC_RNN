@@ -1,0 +1,6 @@
+Binance*.csv
+Binance*.pkl
+env0/
+logs/
+models/
+__pycache__/
