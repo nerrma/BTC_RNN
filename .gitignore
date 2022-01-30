@@ -4,3 +4,5 @@ env0/
 logs/
 models/
 __pycache__/
+KTUNER*/
+ktuner*.txt
